@@ -4,12 +4,15 @@
 
 - I've been a software engineer for most of my life.
 - I worked for a bunch of different startups and now I'm mainly a teacher focused on idea-to-MVP.
-- I also made an AI code editor: https://gitwit.dev/
+- I also made an AI code editor: [gitwit.dev](https://gitwit.dev/)
 
 ## Streaming 📹
 
-- I stream with StreamYard. There's a limit of 10 people on the video channel. I can have unlimited people in the comments.
-- Don't put anything on the stream you wouldn't want public on the internet.
+- I stream with StreamYard.
+- There's a limit of 10 people on the video channel. I can have unlimited people in the comments.
+- The link to the video channel was sent to you via email.
+- The link to follow along and comment is here: https://www.youtube.com/watch?v=IHtWQlFiVK4
+- Don't put anything on the stream you don't want public on the internet.
 
 ## Plan for today
 
