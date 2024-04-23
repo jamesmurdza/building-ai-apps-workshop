@@ -39,6 +39,7 @@
 - I'm building a site where you can log in and pay to make image generations.
 - I started by using Vercel's admin dashboard template: [Deploy NextJS + PostgreSQL apps for free with Vercel](https://youtu.be/EynGNuFtKeI)
 - Then, I added backend routes for OpenAI, and pages to generate and analyze images.
+- Link to my example project: [jamesmurdza/nextjs-postgres-openai-starter](https://github.com/jamesmurdza/nextjs-postgres-openai-starter)
 
 ### Future ideas
 
