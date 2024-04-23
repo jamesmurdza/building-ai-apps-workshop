@@ -34,5 +34,17 @@
 
 - I've been trying everything: [jamesmurdza/building-resources](https://github.com/jamesmurdza/building-resources/)
 
+## Example project
+
+- I'm building a site where you can log in and pay to make image generations.
+- I started by using Vercel's admin dashboard template: [Deploy NextJS + PostgreSQL apps for free with Vercel](https://youtu.be/EynGNuFtKeI)
+- Then, I added backend routes for OpenAI, and pages to generate and analyze images.
+
+### Future ideas
+
+- Customize and add your own prompts!
+- Save generated images to the logged in user's account.
+- Integrate payments like in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
+
 ## Glossary
 
